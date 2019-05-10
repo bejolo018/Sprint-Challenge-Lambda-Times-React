@@ -5,7 +5,9 @@ import PropTypes from 'prop-types';
 const Cards = props => {
   return (
     <div className="cards-container">
-      {props.cards.map(p => <Card key={p.img} card={p} />)}
+      {props.cards.map( card => (
+        < Card card ={card} />
+      ))}
     </div>
   )
 }
