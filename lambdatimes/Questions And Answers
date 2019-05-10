@@ -1,0 +1,14 @@
+What are PropTypes used for? Please describe why it's important to type check our data in JavaScript.
+PropTypes define what our data is so that we can use them later, its important to type check our data for JavaScript to make sure we're using the right data for the right purposes in our code.
+
+
+Describe a life-cycle event in React?
+The three phases of the lifecycle are mount, update, and unmount, basically the birth, life, and death of a component.
+
+
+Explain the details of a Higher Order Component?
+A higher order component, much like a higher order function is basically a component that can become a component to be used in other components.
+
+
+What are three different ways to style components in React? Explain some of the benefits of each.
+The first way is through regular css, which is nice and I personally prefer as it seperates everything nicely and to me makes everything feel more organized. You can also use style in the component itself which is nice if you prefer to have everything in one place, though for me it can be confusing. The other way to style components in react is by using inline stlying which is similar to styling the components with the same benefits but once again I prefer not doing that.
